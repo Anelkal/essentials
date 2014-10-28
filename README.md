@@ -393,7 +393,21 @@ kits:
       - 401 1 name:Angry_Creeper color:red fade:green type:creeper power:1
       - 401 1 name:StarryNight color:yellow,orange fade:blue type:star effect:trail,twinkle power:1
       - 401 2 name:SolarWind color:yellow,orange fade:red shape:large effect:twinkle color:yellow,orange fade:red shape:ball effect:trail color:red,purple fade:pink shape:star effect:trail power:1
-  udali ten tekst i napish CTRL+V
+    Akcija:
+    delay: 96000
+    items:
+      - 276 1 unbreaking:1 name:&6&l[&9&lKardas&6&l] knockback:1 sharpness:1
+      - 297 64 name:&6&lDuona
+      - 364 5 name:&6&lMesa
+      - 290 1 name:&a&l\\\&c&l-RES-&a&l///
+      - 310 1 name:&9&lKepure protection:1
+      - 311 1 name:&9&lMaikute protection:1
+      - 312 1 name:&9&lDzinsai protection:1
+      - 313 1 name:&9&lBateliai protection:1
+      - 266 4 name:&e&lAuksas
+      - 265 3 name:&f&lSidabras 
+      - 384 64 name:&a&lPatirtis
+      - apple 32 name:&6&lObuolys
 
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
